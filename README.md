@@ -38,3 +38,6 @@ Run the app
 ```console
 $ flask run
 ```
+
+Sources:
+https://github.com/carolynwanf/CS279R-hw5
